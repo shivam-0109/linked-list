@@ -6,9 +6,6 @@ public:
 	int data;
 	Node* next;
 };
-
-// This function prints contents of linked list
-// starting from the given node
 void printList(Node* n)
 {
 	while (n != NULL) {
