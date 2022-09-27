@@ -16,6 +16,6 @@
 
 ### Same as **ARRAY** Linked list also store data in linear data struccture but there is so many limitation useing array that why we use linked list
 
-### 1)
+### 1) Array
 
  
